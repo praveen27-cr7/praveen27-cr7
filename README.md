@@ -79,10 +79,8 @@
 <a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
   </a>
-    <a>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH6gCA2sWuRzUPgVmUDwwZlDKoyub9Hvzh1arBiAB5Mwt7_G4YrNv2pbWeUJsq075SGdY&usqp=CAU" alt="mssql" width="40" height="40" />
-  </a>
-    <a>
+   
+  <a>
     <img src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-ptyrjxdo.png" alt="aws" width="50" height="50" />
   </a>
 </p>
