@@ -63,7 +63,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
   </a>
 <a>
-    <img src="https://www.vectorlogo.zone/logos/jquery/" alt="jQuery" width="40" height="40" />
+    <img src="https://iconscout.com/free-icon/jquery-10_1175155" alt="jQuery" width="40" height="40" />
   </a>
   <a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
